@@ -4,7 +4,7 @@
 
 Excel Skills are Important for Data Analysis this repository is intend to showcase basic excel skills.
 
-
+I have created excel dashboard "BMW sales dashboard 2024" from the data that i have taken from the kaggale dataset "BMW sales(2010-2024)" which focuses on 2024 data and gives the answer to the questions prepared by me. 
 
 This excel dashboard will answer the questions as follows:
 
@@ -54,10 +54,15 @@ Used BMW sales dataset (2010-2024) CSV file from Kaggle
 Dashboard contains pivot tables and charts which analyzes and answers the questions as follows
 
 1. The sales of each model can be seen in 'sales by model pivot chart and table' ;it is telling that there is significant sales of "X6, Series 3,Series 5, and Series 7 " models.
+
 2. We can tell that there has been more sales in Asia then the rest of the continents.
+
 3. The least sold model is "M3" with 7.54% and the one which sold highest is "X6" with 10.48%.
+
 4. The Costliest model in 2024 is "i8" model ; Though there is less price range between models (I have taken max price of all models during creation of pivot table through **value field settings**.)
+
 5. The most sold **colours** of highest sold model can be viewed in "**Most sold colours by models**" chart. Example if select X6 model in **slicer** we can see that ther is a 20% sales in Blue colour signifies that customers prefered "Blue" in X6 model.
+
 6. The most sold **fule type** of highest sold model can be viewed in "**Sales by fuel type**" chart. Example if select X6 model in slicer we can see that ther is a 20% sales in Blue colour signifies that customers prefered "Diesel" configuration X6 model.
 
 
