@@ -2,7 +2,7 @@
 
 &#x20;
 
-Excel Skills are Important for Data Analysis this repository is intend to showcase basic excel skills.
+### Excel Skills are Important for Data Analysis this repository is intend to showcase basic excel skills.
 
 I have created excel dashboard "BMW sales dashboard 2024" from the data that i have taken from the kaggale dataset "BMW sales(2010-2024)" which focuses on 2024 data and gives the answer to the questions prepared by me. 
 
@@ -22,7 +22,7 @@ This excel dashboard will answer the questions as follows:
 
 
 
-##### Procedures followed
+### Procedures followed
 
 
 
